@@ -1,4 +1,4 @@
-<h1>MVC Forum</h1>
+<h1>React +MVC +Formik Coin-App</h1>
 
 Bu proje React ile MVC yapısı kullanılarak oluşturulmuş ve formik kullanılarak form yapısı oluşturulmuş bir Crypto takip projesidir.
 
